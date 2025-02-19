@@ -262,3 +262,4 @@ Additionally verify that the batcher is able to submit transactions to the celes
 ```sh
 docker logs -f ops-bedrock-op-batcher-1
 ```
+This project is a demonstration of blockchain technology and smart contract integration.
